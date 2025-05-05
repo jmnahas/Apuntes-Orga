@@ -1,0 +1,21 @@
+
+== Ejercicio 1a ==
+
+Lista 0: 2 NOT NULL
+Lista 1: 4 NOT NULL
+Lista 2: 6 NOT NULL
+Lista 3: 0 NULL
+Lista 4: 1 NOT NULL
+
+== Ejercicio 1b ==
+
+Nodo 1: 0
+Nodo 2: 4
+Nodo 3: 0
+
+== Ejercicio 1c ==
+
+OT position 0: 0
+OT position 0: 0
+OT position 1: 1
+OT position 4: 4
